@@ -491,8 +491,6 @@ Fall 2025.
 
 **Hannah Fathi**
 
-M.Sc. Artificial Intelligence Student
-
 Research Interests:
 
 - Bioinformatics
